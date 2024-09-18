@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eceFkN/J6qk=",
+  "dgSpecHash": "2VqYvIMReCM=",
   "success": true,
-  "projectFilePath": "D:\\DockerTst\\docker-dotnet-sample\\src\\myWebApp.csproj",
+  "projectFilePath": "d:\\DockerTst\\docker-dotnet-sample\\src\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
